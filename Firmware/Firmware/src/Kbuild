@@ -1,0 +1,5 @@
+# obj-y += test_tof.o
+obj-y += tof.o
+# obj-y += I2C_expander.o
+# obj-y += Fly_control.o
+obj-y += tof_driver/
